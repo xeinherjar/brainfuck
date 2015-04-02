@@ -2,6 +2,6 @@
 
 [BrainFuck](http://en.wikipedia.org/wiki/Brainfuck)
 
-Todo: ','  GetChar() needs to be completed and need to ignore ["comments"];
+Todo: ','  stdin/getchar() needs to be completed and need to ignore ["comments"];
 
-Play: 
+[Play with it live](http://xeinherjar.github.io/brainfuck/)
